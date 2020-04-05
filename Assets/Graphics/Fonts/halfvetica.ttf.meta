@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5588fca54ee74a544b85d08ee86f6a37
+timeCreated: 1505190820
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: halfvetica
+  fontNames:
+  - halfvetica
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
